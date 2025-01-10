@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0169: 'KullanıcıGirisEkrani.textBox1' alanı hiçbir zaman kullanılmaz
+dotnet_diagnostic.CS0169.severity = none
